@@ -15,4 +15,4 @@ microservice:
   order-service:
     endpoints:
       endpoint:
-        uri:  http://PAYMENT-SERVICE/order/saveOrder
+        uri:  http://ORDER-SERVICE/order/saveOrder
